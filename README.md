@@ -5,7 +5,7 @@
 <br>Links to Tutorials and Projects learned and all working along a way. Hope it will be useful for others starting or want to try making games.  
 <br><p></p>
 
-><p>Would really Like To see projects You started on GameDev experience or starting</p>(Share on <a href = "https://x-pmods.itch.io/bogt_by_x-p">Itch.io</a> in comments definitely going  to check them out)<br>
+><p>Would really Like To see projects You started/starting GameDev experience</p>(Share on <a href = "https://x-pmods.itch.io/bogt_by_x-p">Itch.io</a> in comments definitely going  to check them out)<br>
 
 <br>Tests  of ideas, Code samples, Project files, Assets. 
 <br>Working on this to understand, learn mechanics of game engines (Unity, Godot, Mono, XNA and other) to better and faster create own games.
