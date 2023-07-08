@@ -2,7 +2,7 @@
 # BOGT_by_X-P
 <br>Bundle of game tests by X-P
 <br>It's mini test games bundle by X-P. Attempts at the start of GameDev journey.
-<br>Links to Tutorials and Projects learned and all working along a way. Hope it will be useful for others starting or want to try making games.  
+<br>Links to Tutorials, Projects learned and working along a way. Hope it will be useful for others starting or want to try making games.  
 <br><p></p>
 
 ><p>Would really Like To see projects You started/starting GameDev experience</p>(Share on <a href = "https://x-pmods.itch.io/bogt_by_x-p">Itch.io</a> in comments definitely going  to check them out)<br>
