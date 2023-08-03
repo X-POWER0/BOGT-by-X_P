@@ -41,8 +41,10 @@
 <br>(18.07.2023)Unity5 - ### "DXquad" <br>(**WorkInProgress**, alpha _3Dminigame_, shooting inspired DeuseEx HR atmosphere)
 <br>(28.07.2023)Unity5 - ### "2dplatformX" <br>(**WorkInProgress**, _2Dminigame_, basic platformer characters gave supernatural powers)
 </details>
--[<B>flapITbyBOARD</B>](https://github.com/X-POWER0/BOGT_by_X-P/tree/main/2D/flapITbyBOARD) (03.08.2023)-
-<br>minigame on theme of flappy bird mechanic but with own editions.
+
+### [flapITbyBOARD ](https://github.com/X-POWER0/BOGT_by_X-P/tree/main/2D/flapITbyBOARD)
+(03.08.2023)
+<br> - minigame on theme of flappy bird mechanic but with own editions.
 <br>Software used: Unity 5.2.5f, Gimp, Notepad++, MonoDevelop, BoscaCeoil
 
 
