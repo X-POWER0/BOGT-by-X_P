@@ -10,6 +10,12 @@
 <br>Tests  of ideas, Code samples, Project files, Assets. 
 <br>Working on this to understand, learn mechanics of game engines (Unity, Godot, Mono, XNA and other) to better and faster create own games.
 <br><br><b>Here will be builds of all mini games in one and links to separate projects by Timeline of creation.</b>
+
+-<B>[flapITbyBOARD](https://github.com/X-POWER0/BOGT_by_X-P/tree/main/2D/flapITbyBOARD)</B> -
+<br>minigame on theme of flappy bird mechanic but with own editions.
+<br>Software used: Unity 5.2.5f, Gimp, Notepad++, MonoDevelop, BoscaCeoil
+
+
 <br><br>(Will try to make builds on every platform that can run it, so If You interested in build on specific LEAVE COMMENT)
 <br>All code can be downloaded and reused(with or without crediting X-P, but It would be nice to add link to this bundle, so anyone who <br>would like to fast make own game just by replacing art other assets could find it easy.)
 <br>each mini game will be with links and credits of tutorials used To create It.
