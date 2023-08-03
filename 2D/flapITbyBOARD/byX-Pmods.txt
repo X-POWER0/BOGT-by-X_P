@@ -1,0 +1,35 @@
+ThanK YOU!
+For trying out our Games. Hope You'll have fun. Have a GREAT TIME!!!
+
+-------------------------------------------------------------------------------------------------------------
+|!!!NO_MORE_WARS!!!!!!NO_MORE_WARS!!!!!!NO_MORE_WARS!!!!!!NO_MORE_WARS!!!!!!NO_MORE_WARS!!!|
+|We are for WORLD of BETTER FUTURE, People Free, Smart, Safe and working/create to prosper |
+|AGAINST Wrongness, Rudness, Humilliation, Bullying, Immorality ... all the other BAD stuff|
+-------------------------------------------------------------------------------------------------------------
+more test mini-games on
+https://x-pmods.itch.io/bogt-by-x-p
+
+made BY X-Pmods 
+Software used: Unity 5.2.5f, Gimp, Notepad++, MonoDevelop, BoscaCeoil
+!!!THANKS DEVS!!!! and COMMUNITIES!!!!! all links to knowledge and tutorials on Project Page.
+
+flapITbyBOARD -
+about having Your own parts as obsticales on Your path. And overcoming it endlessly to reach better Yourself.
+(test flappy bird remake with some own design editions)
+
+Info:
+    Get To the next side of screen. 
+    Overcome obsticales by fly or dodge, crawl. 
+    - - Push constantly to the RIGHT.  
+    Right, Left, Fly(screen, mouse rb, space) 
+
+Controls:
+Left,Right - A,D keys, arrows, MobileControls(UI screen buttons),Horizontal AXIS(Unity standart input)
+Fly - Space, Mouse RightButton, Screen(Click&hold, Touch without UI Screenspace),   Jump(Unity standart input)
+Pause,Cancel - Escape, Cross UI button on Left Top of Screen
+Submit - Enter, Return, Space, UI buttons, Submit(Unity standart input)
+
+Switch OFF Sound  - In PAUSE Menu(In play use Escape or Cross UI button), select "SOUND".
+ResetScore - In START or PAUSE menu.
+
+SHARE YOUR SCORE in comments on ITCH.io PAGE!!!!!!!
