@@ -44,8 +44,8 @@
 
 ### [flapITbyBOARD ](https://github.com/X-POWER0/BOGT_by_X-P/tree/main/2D/flapITbyBOARD)
 <details><summary>img</summary><img src ="https://github.com/X-POWER0/BOGT_by_X-P/blob/main/2D/flapITbyBOARD/Project/Assets/IMG/Splash.png"></details>
-(03.08.2023) [[play]](https://x-power0.github.io/BOGT_by_X-P/WEB/BUILDS/2D/flapITbyBOARD/index.html)
-<br> - minigame on theme of flappy bird mechanic but with own editions.
+(03.08.2023) <a href="https://x-power0.github.io/BOGT_by_X-P/WEB/BUILDS/2D/flapITbyBOARD/index.html">[PLAY]</a>
+<br> - minigame on theme of flappy bird mechanic but with own editions. MORE INFO on  <a href = "https://x-pmods.itch.io/bogt_by_x-p">Itch.io</a> 
 <br>Software used: Unity 5.2.5f, Gimp, Notepad++, MonoDevelop, BoscaCeoil
 
 <br><br>(Will try to make builds on every platform that can run it, so If You interested in build on specific LEAVE COMMENT)
