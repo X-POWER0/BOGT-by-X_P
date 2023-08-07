@@ -9,17 +9,18 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/dl.json", {onProgress: UnityProgress});
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/flapITbyBOARD.json", {onProgress: UnityProgress});
     </script>
   </head>
-   <body style = "background-color:black;">
+  <body>
     <div class="webgl-content">
-      <div id="gameContainer" style="width: 960px; height: 600px"></div>
+      <div id="gameContainer" style="width: 757px; height: 270px"></div>
       <div class="footer">
         <div class="webgl-logo"></div>
         <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-        <div class="title">flapITbyBOARD</div>
-      </div>
+ <div class="title" style="color:bordeaux;">flapITbyBOARD Demo Preview version <a href="https://x-pmods.itch.io/bogt-by-x-p">DOWNLOAD FULL</a></div>
+        
+  </div>
     </div>
   </body>
 </html>
