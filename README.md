@@ -42,9 +42,9 @@
 <br>(28.07.2023)Unity5 - <b>["2dplatformX"]</b> <br>(**WorkInProgress**, _2Dminigame_, basic platformer characters gave supernatural powers)
 </details>
 
-### [flapITbyBOARD ](https://github.com/X-POWER0/BOGT_by_X-P/tree/main/2D/flapITbyBOARD)
+### [flapITbyBOARD ](https://x-power0.github.io/BOGT_by_X-P/WEB/BUILDS/2D/flapITbyBOARD/index.html)
 <details><summary>img</summary><img src ="https://github.com/X-POWER0/BOGT_by_X-P/blob/main/2D/flapITbyBOARD/Project/Assets/IMG/Splash.png"></details>
-(03.08.2023) <a href="https://x-power0.github.io/BOGT_by_X-P/WEB/BUILDS/2D/flapITbyBOARD/index.html">[PLAY]</a>
+(03.08.2023) <a href="https://github.com/X-POWER0/BOGT_by_X-P/tree/main/2D/flapITbyBOARD">[SOURCE]</a>
 <br> - minigame on theme of flappy bird mechanic but with own editions. MORE INFO on  <a href = "https://x-pmods.itch.io/bogt_by_x-p">Itch.io</a> 
 <br>Software used: Unity 5.2.5f, Gimp, Notepad++, MonoDevelop, BoscaCeoil
 
