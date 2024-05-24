@@ -1,1 +1,5 @@
+remake of GOIT Goose game 
+from free webinar of making  game in Python with Pygame
 
+art by GOIT
+some edits of art and code by x-p
