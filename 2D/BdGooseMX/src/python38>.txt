@@ -1,0 +1,5 @@
+python38>
+
+can work on python27 
+with some edits 
+and remove asincio mainly needed for pygbag web play
